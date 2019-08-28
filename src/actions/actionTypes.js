@@ -1,7 +1,3 @@
 export const LIGHT_RED = "LIGHT_RED";
 export const LIGHT_YELLOW = "LIGHT_YELLOW";
 export const LIGHT_GREEN = "LIGHT_GREEN";
-
-export const START_TIMER_RED = "TIMER_ON_RED_LIGHT";
-export const START_TIMER_YELLOW = "TIMER_ON_YELLOW_LIGHT";
-export const START_TIMER_GREEN = "TIMER_ON_GREEN_LIGHT";

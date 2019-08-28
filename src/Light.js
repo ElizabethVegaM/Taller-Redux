@@ -9,7 +9,6 @@ class Light extends Component{
       width: 80,
       backgroundColor: this.props.lights[this.props.color] ? this.props.color : 'grey'
     }}>
-      <p style={{margin:'auto'}}>{this.props.timer[`${this.props.color}LightTimer`]}</p>
     </div>);
   }
 }
